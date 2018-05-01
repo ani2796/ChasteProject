@@ -1,0 +1,36 @@
+This version of Chaste was compiled on:
+Thu, 11 Feb 2016 14:08:04 +0000 by Linux scoop 3.2.0-87-generic #125-Ubuntu SMP Fri Jun 19 08:25:10 UTC 2015 x86_64 (uname)
+from revision number 26039 with build type GccOpt_hostconfig,petsc=3-0,hdf5=1-8, shared libraries.
+
+<ChasteBuildInfo>
+	<ProvenanceInfo>
+		<VersionString>3.4.26039</VersionString> <!-- build specific -->
+		<IsWorkingCopyModified>0</IsWorkingCopyModified>
+		<BuildInformation>GccOpt_hostconfig,petsc=3-0,hdf5=1-8, shared libraries</BuildInformation>
+		<BuildTime>Thu, 11 Feb 2016 14:08:04 +0000</BuildTime>
+		<CurrentTime>Tue, 16 Jan 2018 02:28:26 +0000</CurrentTime>
+		<BuilderUnameInfo>Linux scoop 3.2.0-87-generic #125-Ubuntu SMP Fri Jun 19 08:25:10 UTC 2015 x86_64</BuilderUnameInfo>
+		<Projects>
+		</Projects>
+	</ProvenanceInfo>
+	<Compiler>
+		<NameAndVersion>gcc, version 4.6</NameAndVersion>
+		<Flags>-O3</Flags>
+	</Compiler>
+	<Libraries>
+		<CompiledIn>
+			<PETSc>3.0.0</PETSc>
+			<Boost>1.48.0</Boost>
+			<HDF5>1.8.9</HDF5>
+			<Parmetis>3.1</Parmetis>
+		</CompiledIn>
+		<Binaries>
+			<XSD>3.3.0</XSD>
+		</Binaries>
+		<Optional>
+			<SUNDIALS>2.4.0</SUNDIALS> <!-- includes Cvode of a different version number --> 
+			<VTK>5.8</VTK>
+			<Xerces>2.8.0</Xerces>
+		</Optional>
+	</Libraries>
+</ChasteBuildInfo>

@@ -1,0 +1,5 @@
+Number of timesteps 501
+timestep 0.1
+First timestep 0
+Last timestep 50
+Created by Chaste version 3.4.26039 on Tue, 16 Jan 2018 02:28:25 +0000.  Chaste was built on Thu, 11 Feb 2016 14:08:04 +0000 by machine (uname) 'Linux scoop 3.2.0-87-generic #125-Ubuntu SMP Fri Jun 19 08:25:10 UTC 2015 x86_64' using settings: GccOpt_hostconfig,petsc=3-0,hdf5=1-8, shared libraries.
